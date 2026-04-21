@@ -7,9 +7,9 @@ To ensure data security and comply with confidentiality agreements during the pe
 ## For Peer Reviewers:
 If you are a reviewer assigned by Joule and wish to access the full codebase for reproducibility verification, please use one of the following methods:
 
-1 Request via Editorial Office: Ask the editor to provide your GitHub username to the authors.
+  1. Request via Editorial Office: Ask the editor to provide your GitHub username to the authors.
 
-2 Direct Contact: Email the corresponding author with your GitHub username.
+  2. Direct Contact: Email the corresponding author with your GitHub username.
 
 Once we receive your GitHub ID, we will add you as a Temporary Collaborator with read-only access to the private repository.
 
